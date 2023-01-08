@@ -17,16 +17,40 @@
   margin-top: 10px;
   height: 100%;
 	background: url(../img/foot.jpg);
-  background-attachment: fixed;
 	background-size: cover;
 	color: rgb(255, 255, 255);
 	font-size: medium;
+}
+.container1_uno{
+	border: solid 2px rgb(177, 49, 200);
+	display: flex;
+	text-align: center;
+  font-size: medium;
+  width: 100%;
+  height: 100%;
+
+}
+.itempt{
+	border:  2px rgb(255, 255, 255);
+	height: 500px;
+	width: 340px;
+	font-size: small;
+	margin: 30px;
 }
 .mycontainer2{
   display: flex;
   width: 100%;
   height: 350px;
   background: url(../img/bg2.jpg);
+  background-attachment: fixed;
+	background-size: cover;
+
+}
+.mycontainer3{
+  display: flex;
+  width: 100%;
+  height: 350px;
+  background: url(../img/bg1.jpg);
   background-attachment: fixed;
 	background-size: cover;
 
@@ -40,20 +64,19 @@
 .item2{
   width:900px ;
   height: 300px;
-  border: solid 2px rgb(88, 93, 234);
+  border: solid 4px rgb(19, 19, 19);
   border-radius: 0px 15px 0px 15px;
   padding-top: 20px;
   margin-top: 30px;
   margin-left: 10px;
 }
 .containerdroit{
-	margin: 10px;
+	margin-top: 40px;
 	border: solid 2px rgb(0, 0, 0);
-	border-radius: 20px;
 	display: flex;
-	width: 100%;
-	height: 200px;
-	background-color: rgb(166, 215, 211);
+	width: 90%;
+	height: 250px;
+	background: linear-gradient(rgb(255, 255, 255) , rgb(255, 255, 255) );
 	color: white;
 	padding: 15px;
 }
@@ -65,16 +88,20 @@
 	
 }
 .item{
-	border:  2px rgb(255, 255, 255);
-	height: 700px;
-	width: 440px;
+	border:  2px rgb(49, 49, 49);
+  border-radius: 20px;
+	height: 400px;
+	width: 450px;
 	font-size: small;
 	margin: 30px;
+  margin-top: 30px;
 }
 .grandblock{
 	width: 100%;
 	height: 100%;
-	display: inline-flex
+	display: inline-flex;
+  background: url(../img/bg3.jpg);
+	background-size: cover;
 
 }
 :root {
