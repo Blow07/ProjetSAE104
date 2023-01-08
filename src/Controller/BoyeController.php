@@ -15,9 +15,9 @@ class BoyeController extends AbstractController
             'controller_name' => 'BoyeController',
         ]);
     }
-    #[Route('/theme', name: 'app_boye2')]
+    #[Route('/cv', name: 'app_boye2')]
     Public function verstheme(){
-    return $this->render('boye/theme.html.twig');
+    return $this->render('boye/cv.html.twig');
     }
     #[Route('/blog', name: 'app_boye3')]
     Public function versblog(){
