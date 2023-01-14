@@ -15,12 +15,16 @@ class BoyeController extends AbstractController
             'controller_name' => 'BoyeController',
         ]);
     }
-    #[Route('/cv', name: 'app_boye2')]
-    Public function verstheme(){
+    #[Route('/portfolio', name: 'app_boye2')]
+    Public function versportfolio(){
+    return $this->render('boye/portfolio.html.twig');
+    }
+    #[Route('/cv', name: 'app_boye3')]
+    Public function verscv(){
     return $this->render('boye/cv.html.twig');
     }
-    #[Route('/blog', name: 'app_boye3')]
-    Public function versblog(){
-    return $this->render('boye/blog.twig');
+    #[Route('/contact', name: 'app_boye4')]
+    Public function verscontact(){
+    return $this->render('boye/contact.html.twig');
     }
 }
