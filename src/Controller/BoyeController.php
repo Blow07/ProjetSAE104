@@ -27,4 +27,8 @@ class BoyeController extends AbstractController
     Public function verscontact(){
     return $this->render('boye/contact.html.twig');
     }
+    #[Route('/autres', name: 'app_boye5')]
+    Public function versautres(){
+    return $this->render('boye/autres.html.twig');
+    }
 }
