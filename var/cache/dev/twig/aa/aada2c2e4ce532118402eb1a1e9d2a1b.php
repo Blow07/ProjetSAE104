@@ -114,7 +114,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
         echo "        <div class=\"mycontainer3\">
           <div class=\"competences\">
             <h1>
-              <p style=\"text-align: center; font-family:cursive;color:coral;font-size:larger\" ><u>COMPETENCES:</u></p>
+              <p style=\"text-align: center; font-family:cursive;color:black;font-size:larger\" ><u>COMPETENCES:</u></p>
             </h1>
           </div>
         
@@ -125,7 +125,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img1.jpg\"  width=\"90%\" height=\"50%\" style=\"border-radius: 20px;\">
               <h6 >
-              <p style=\"color:white;\">
+              <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Administrer</u></p>
                 A l’ère du numérique, la gestion des réseaux informatiques ou de télécommunications, essentielle au 
                 bon fonctionnement de l’entreprise, suppose de concevoir le réseau, le déployer, l’administrer et 
@@ -138,7 +138,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img2.jpg\" width=\"90%\" height=\"50%\" style=\"border-radius: 20px; margin-top:10px\">
               <h6 >
-                <p style=\"color:white;\">
+                <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Programmer</u></p>
                 L’administrateur de réseaux informatiques ou de télécommunications à un besoin grandissant de compétences en développement informatique. Il
                 peut être amené à développer des applications spécifiques pour son réseau (par exemple, pour remonter et analyser des informations sur ses
@@ -151,7 +151,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img3.jpg\" width=\"90%\" height=\"50%\" style=\"border-radius: 20px; margin-top:10px\">
               <h6 >
-                <p style=\"color:white;\">
+                <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Connecter</u></p>
                 Les réseaux informatiques ou de télécommunications s’appuient sur des infrastructures de transmission pour l’acheminement des données entre les
                 différents équipements du réseau. L’installation et l’administration de ces infrastructures demandent de bonnes connaissances dans certains
@@ -251,7 +251,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
         <div class=\"mycontainer3\">
           <div class=\"competences\">
             <h1>
-              <p style=\"text-align: center; font-family:cursive;color:coral;font-size:larger\" ><u>COMPETENCES:</u></p>
+              <p style=\"text-align: center; font-family:cursive;color:black;font-size:larger\" ><u>COMPETENCES:</u></p>
             </h1>
           </div>
         
@@ -262,7 +262,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img1.jpg\"  width=\"90%\" height=\"50%\" style=\"border-radius: 20px;\">
               <h6 >
-              <p style=\"color:white;\">
+              <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Administrer</u></p>
                 A l’ère du numérique, la gestion des réseaux informatiques ou de télécommunications, essentielle au 
                 bon fonctionnement de l’entreprise, suppose de concevoir le réseau, le déployer, l’administrer et 
@@ -275,7 +275,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img2.jpg\" width=\"90%\" height=\"50%\" style=\"border-radius: 20px; margin-top:10px\">
               <h6 >
-                <p style=\"color:white;\">
+                <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Programmer</u></p>
                 L’administrateur de réseaux informatiques ou de télécommunications à un besoin grandissant de compétences en développement informatique. Il
                 peut être amené à développer des applications spécifiques pour son réseau (par exemple, pour remonter et analyser des informations sur ses
@@ -288,7 +288,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
             <div class=\"itempt\">
               <img src=\"../img/img3.jpg\" width=\"90%\" height=\"50%\" style=\"border-radius: 20px; margin-top:10px\">
               <h6 >
-                <p style=\"color:white;\">
+                <p style=\"color:black;\">
                 <p style=\"text-align: center;\"><u>Connecter</u></p>
                 Les réseaux informatiques ou de télécommunications s’appuient sur des infrastructures de transmission pour l’acheminement des données entre les
                 différents équipements du réseau. L’installation et l’administration de ces infrastructures demandent de bonnes connaissances dans certains
