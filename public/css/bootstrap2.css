@@ -38,6 +38,7 @@
   color: white;
 	border: solid 2px rgb(32, 19, 107);
 	display: flex;
+  justify-content: center;
 	text-align: center;
   font-size: medium;
   width: 100%;
@@ -52,7 +53,9 @@
 	width: 340px;
 	font-size: medium;
 	margin: 30px;
+  background-color: rgb(20, 37, 85);
   box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.54);
+  
 }
 .mycontainer2{
   display: flex;
@@ -141,11 +144,14 @@
 }
 .classfortext{
   color: rgb(255, 255, 255);
+  width: 900px;
+  height: 270px;
   padding: 10px;
   border: solid 2px rgb(48, 200, 227);
   border-radius: 20px;
   background: url(../img/working-with-apps-cup-coffee.jpg);
 	background-size: cover;
+  margin-left: 420px;
 }
 .mycontainer4{
   display: flex;
