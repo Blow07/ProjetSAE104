@@ -160,53 +160,63 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
               </p>
               </h6>
             </div>
+
+            
           </div><br><br>
           <div class=\"myyrow\">
             <img src=\"../img/img1.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
+               ♠️Maitrise des lois fondamentales de l'électricité<br>
+                <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t\t
+                \">Link</a><br>
+                ♠️Connaissance sur l'architecture des réseaux<br>
+                <a href=\"https://docs.google.com/document/d/1MyL-yEZJfNQ5KApFMrUmZe03_PTNgXBrXcqOnp252C4/edit?usp=sharing\">Link<br></a>
+                ♠️Maitrise des équipements actifs et réseaux locaux<br>
+                <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t\t
+                \">Link<br></a>
+                ♠️Maitrise du shell linux<br>
+                <a href=\"https://docs.google.com/document/d/1zcgjLWUO9VpIO2hMOdB4GrREoz06rGfQVB40JpLBZiM/edit?usp=sharing\">Link<br></a>
+                ♠️Bases de la cybersécurité<br>
+                <a href=\"https://docs.google.com/document/d/12Ow8PWFEYa93-also0WP6FzBbhWcNE6PbZvk04s2V5Q/edit?usp=sharing\">Link<br></a>
+               </ul>
+
+              
         </p>
           </div>
           <div class=\"myyrow\" style=\"position:relative; bottom:00px;\">
             <img src=\"../img/img2.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
-        </p>
+                ♠️Utiliser un systéme informatique et ses outils<br>
+                <a href=\"https://docs.google.com/document/d/1j0i96nnbllPQ3ZIsUrhieM2VWG8O_YYinuoqWAyvQb0/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Lire exécuter corriger et modifier un programme<br>
+                <a href=\"https://docs.google.com/document/d/1FENjp9Z6Y0tlp77njlSnPV1qNhGMT3krobbMqcrXe7k/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Traduire un algo dans un langage<br>
+                <a href=\"https://docs.google.com/document/d/1PqCn5Kk2M7v_uzazzglqR4Wsp0TeDw-S9qBV_DkE1bc/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Connaitre l'architecture et les structures d'un site web<br>
+                <a href=\"https://docs.google.com/document/d/16CyNknszFKr18MOzmpzdMQZHoUoXEQ5Q0qyX-iv675c/edit?usp=sharing
+                \">Link<br></a>
+                
+
+           </p>
           </div>
           <div class=\"myyrow\" style=\"position:relative; bottom:00px;\">
             <img src=\"../img/img3.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
+              ♠️Mesures et analyses des signaux<br>
+              <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t
+              \">Link<br></a>
+              ♠️Modélisation mathématiques des signaux<br>
+              <a href=\"https://docs.google.com/document/d/1EIWsgFqq4S8Jc9Pl4Ak6_qfbL_41l6U_J8UVDMLgAes/edit?usp=sharing\t
+              \">Link<br></a>
+              ♠️Déploiment des supports de transmission<br>
+              <a href=\"https://docs.google.com/presentation/d/14UsMctdRiNm6lVGsiEYXUoj52O-Wu21n/edit?usp=sharing&ouid=100120394796123226328&rtpof=true&sd=true\t\t
+              \">Link<br></a>
+              ♠️Communiquer avec un client ou un colloborateur<br>
+              
+
         </p>
           </div>
     ";
@@ -297,53 +307,63 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
               </p>
               </h6>
             </div>
+
+            
           </div><br><br>
           <div class=\"myyrow\">
             <img src=\"../img/img1.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
+               ♠️Maitrise des lois fondamentales de l'électricité<br>
+                <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t\t
+                \">Link</a><br>
+                ♠️Connaissance sur l'architecture des réseaux<br>
+                <a href=\"https://docs.google.com/document/d/1MyL-yEZJfNQ5KApFMrUmZe03_PTNgXBrXcqOnp252C4/edit?usp=sharing\">Link<br></a>
+                ♠️Maitrise des équipements actifs et réseaux locaux<br>
+                <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t\t
+                \">Link<br></a>
+                ♠️Maitrise du shell linux<br>
+                <a href=\"https://docs.google.com/document/d/1zcgjLWUO9VpIO2hMOdB4GrREoz06rGfQVB40JpLBZiM/edit?usp=sharing\">Link<br></a>
+                ♠️Bases de la cybersécurité<br>
+                <a href=\"https://docs.google.com/document/d/12Ow8PWFEYa93-also0WP6FzBbhWcNE6PbZvk04s2V5Q/edit?usp=sharing\">Link<br></a>
+               </ul>
+
+              
         </p>
           </div>
           <div class=\"myyrow\" style=\"position:relative; bottom:00px;\">
             <img src=\"../img/img2.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
-        </p>
+                ♠️Utiliser un systéme informatique et ses outils<br>
+                <a href=\"https://docs.google.com/document/d/1j0i96nnbllPQ3ZIsUrhieM2VWG8O_YYinuoqWAyvQb0/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Lire exécuter corriger et modifier un programme<br>
+                <a href=\"https://docs.google.com/document/d/1FENjp9Z6Y0tlp77njlSnPV1qNhGMT3krobbMqcrXe7k/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Traduire un algo dans un langage<br>
+                <a href=\"https://docs.google.com/document/d/1PqCn5Kk2M7v_uzazzglqR4Wsp0TeDw-S9qBV_DkE1bc/edit?usp=sharing
+                \">Link<br></a>
+                ♠️Connaitre l'architecture et les structures d'un site web<br>
+                <a href=\"https://docs.google.com/document/d/16CyNknszFKr18MOzmpzdMQZHoUoXEQ5Q0qyX-iv675c/edit?usp=sharing
+                \">Link<br></a>
+                
+
+           </p>
           </div>
           <div class=\"myyrow\" style=\"position:relative; bottom:00px;\">
             <img src=\"../img/img3.jpg\" width=\"400px\" height=\"285px\" style=\"border-radius: 20px;float:left\">
             <p class=\"classfortext\">
-        Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur son chemin ?Après une dite désastreuse à la Coupe du monde 2018, l'équipe de foot du Japon peine à se ressaisir. Que leur 
-        a-t-il manqué ? Peut-être un attaquant hors pair pouvant les guider vers la victoire. L'union japonaise de 
-        football s'acharne à trouver quelqu’un ayant faim de buts et soif de victoire, une personne à l’individualisme 
-        assumé capable de faire basculer un match qui a mal démarré. Pour cela, elle a rassemblé 300 des plus brillants 
-        jeunes joueurs du Japon. Qui émergera pour diriger l'équipe ? Sera-t-il capable de surpasser en force et en 
-        caractère tous ceux qui se dressent sur
+              ♠️Mesures et analyses des signaux<br>
+              <a href=\"https://docs.google.com/document/d/1y2RZ8yZWK9fb60Am3_QNAXMy9ipH-o-hRsC0v89CssQ/edit?usp=sharing\t
+              \">Link<br></a>
+              ♠️Modélisation mathématiques des signaux<br>
+              <a href=\"https://docs.google.com/document/d/1EIWsgFqq4S8Jc9Pl4Ak6_qfbL_41l6U_J8UVDMLgAes/edit?usp=sharing\t
+              \">Link<br></a>
+              ♠️Déploiment des supports de transmission<br>
+              <a href=\"https://docs.google.com/presentation/d/14UsMctdRiNm6lVGsiEYXUoj52O-Wu21n/edit?usp=sharing&ouid=100120394796123226328&rtpof=true&sd=true\t\t
+              \">Link<br></a>
+              ♠️Communiquer avec un client ou un colloborateur<br>
+              
+
         </p>
           </div>
     {% endblock %}", "boye/portfolio.html.twig", "C:\\Users\\boyem\\OneDrive\\Documents\\GitHub\\ProjetSAE104\\templates\\boye\\portfolio.html.twig");
