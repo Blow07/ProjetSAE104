@@ -108,9 +108,10 @@ class __TwigTemplate_2e28938bc97b201051005636635acfba extends Template
             <br>
             <p style=\"text-align: center;\">My social networks<br></p>
             <div style=\"display: inline; position: relative; left: 550px;\">
+              <a href=\"/contact\">
                 <img src=\"../img/quora.png\" width=\"50px\" height=\"50px\">
                 <img src=\"../img/git.png\" width=\"50px\" height=\"50px\">
-                <img src=\"../img/in.png\" width=\"50px\" height=\"50px\">
+                <img src=\"../img/in.png\" width=\"50px\" height=\"50px\"></a>
             </div>
             <p style=\"color: aquamarine; text-align: right;\">Contactez- <a href=\"/contact\" style=\"color: aqua;\">ici</a></p>
             <a class=\"btn btn-order rounded-0\" href=\"/autres\">About me</a>
@@ -227,7 +228,7 @@ class __TwigTemplate_2e28938bc97b201051005636635acfba extends Template
 
     public function getDebugInfo()
     {
-        return array (  201 => 44,  188 => 14,  178 => 13,  165 => 10,  155 => 9,  136 => 5,  102 => 45,  100 => 44,  70 => 16,  68 => 13,  65 => 12,  62 => 9,  57 => 6,  53 => 5,  47 => 1,);
+        return array (  202 => 44,  189 => 14,  179 => 13,  166 => 10,  156 => 9,  137 => 5,  102 => 45,  100 => 44,  70 => 16,  68 => 13,  65 => 12,  62 => 9,  57 => 6,  53 => 5,  47 => 1,);
     }
 
     public function getSourceContext()
@@ -285,9 +286,10 @@ class __TwigTemplate_2e28938bc97b201051005636635acfba extends Template
             <br>
             <p style=\"text-align: center;\">My social networks<br></p>
             <div style=\"display: inline; position: relative; left: 550px;\">
+              <a href=\"/contact\">
                 <img src=\"../img/quora.png\" width=\"50px\" height=\"50px\">
                 <img src=\"../img/git.png\" width=\"50px\" height=\"50px\">
-                <img src=\"../img/in.png\" width=\"50px\" height=\"50px\">
+                <img src=\"../img/in.png\" width=\"50px\" height=\"50px\"></a>
             </div>
             <p style=\"color: aquamarine; text-align: right;\">Contactez- <a href=\"/contact\" style=\"color: aqua;\">ici</a></p>
             <a class=\"btn btn-order rounded-0\" href=\"/autres\">About me</a>
