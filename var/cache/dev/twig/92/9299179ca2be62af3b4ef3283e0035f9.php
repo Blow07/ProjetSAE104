@@ -66,6 +66,11 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
 
         // line 6
         echo "    <div class=\"mycontainer5\">
+        <div class=\"competences\">
+            <h1>
+              <p style=\"text-align: center; font-family:cursive;color:black;font-size:larger\" ><u>CURRICULUM VITAE:<br><p style=\"font-size:medium; text-align:center\">Poste: Directeur Informatique</p></u></p>
+            </h1>
+          </div>
                 
             
     </div>
@@ -158,7 +163,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
                     <ul>
                         <li>CFEE à l'école SAINT Joseph de Rufisque obtenu en 2015</li>
                         <li>BFEMM à l'école  CABIS SCHOOL de Mbao obtenu en 2019</li>
-                        <li>BAC obtenu en 2022</li>
+                        <li>BAC Scientifique spécialité Physique Chimie Biologie et Mathématiques obtenu en 2022</li>
                     </p>
             </div>
            
@@ -186,7 +191,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\" placeholder=\"Password\">
         </div>
         <div class=\"form-group\">
-            <label for=\"exampleSelect1\" class=\"form-label mt-4\">Vous êtes ?</label>
+            <label for=\"exampleSelect1\" class=\"form-label mt-4\">You are ?</label>
             <select class=\"form-select\" id=\"exampleSelect1\">
             <option>Recruteur</option>
             <option>Chef d'entreprise</option>
@@ -198,10 +203,10 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <label for=\"exampleSelect2\" class=\"form-label mt-4\">Do you want to rate the website ?</label>
             <select multiple=\"\" class=\"form-select\" id=\"exampleSelect2\">
             <option>1 ☠️</option>
-            <option>2 😨</option>
-            <option>3 😊</option>
-            <option>4 ✨</option>
-            <option>5 😍</option>
+            <option>2 ✨✨</option>
+            <option>3 ✨✨✨</option>
+            <option>4 ✨✨✨✨</option>
+            <option>5 ✨✨✨✨✨</option>
             </select>
         </div>
         <div class=\"form-group\">
@@ -209,7 +214,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <textarea class=\"form-control\" id=\"exampleTextarea\" rows=\"3\"></textarea>
         </div>
         <div class=\"form-group\">
-            <label for=\"formFile\" class=\"form-label mt-4\">Default file input example</label>
+            <label for=\"formFile\" class=\"form-label mt-4\">you want to transmit a document ?</label>
             <input class=\"form-control\" type=\"file\" id=\"formFile\">
         </div>
         <fieldset class=\"form-group\">
@@ -217,18 +222,17 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <div class=\"form-check\">
             <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\">
             <label class=\"form-check-label\" for=\"optionsRadios1\">
-                Alpha male
+                Man
             </label>
             </div>
             <div class=\"form-check\">
             <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\">
             <label class=\"form-check-label\" for=\"optionsRadios2\">
-                Lady female
+                Woman
             </label>
             </div>
         </fieldset>
-        <button type=\"submit\" class=\"btn btn-primary\"><a href=\"../CV.docx\" download=\"CV.docx\">Submit</a></button>
-        </fieldset>
+        <button type=\"submit\"><a href=\"../CV.docx\" target=\"_blank\" download>Submit</a></button>
     </form>
     ";
         
@@ -262,6 +266,11 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
 
     {% block body %}
     <div class=\"mycontainer5\">
+        <div class=\"competences\">
+            <h1>
+              <p style=\"text-align: center; font-family:cursive;color:black;font-size:larger\" ><u>CURRICULUM VITAE:<br><p style=\"font-size:medium; text-align:center\">Poste: Directeur Informatique</p></u></p>
+            </h1>
+          </div>
                 
             
     </div>
@@ -354,7 +363,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
                     <ul>
                         <li>CFEE à l'école SAINT Joseph de Rufisque obtenu en 2015</li>
                         <li>BFEMM à l'école  CABIS SCHOOL de Mbao obtenu en 2019</li>
-                        <li>BAC obtenu en 2022</li>
+                        <li>BAC Scientifique spécialité Physique Chimie Biologie et Mathématiques obtenu en 2022</li>
                     </p>
             </div>
            
@@ -382,7 +391,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\" placeholder=\"Password\">
         </div>
         <div class=\"form-group\">
-            <label for=\"exampleSelect1\" class=\"form-label mt-4\">Vous êtes ?</label>
+            <label for=\"exampleSelect1\" class=\"form-label mt-4\">You are ?</label>
             <select class=\"form-select\" id=\"exampleSelect1\">
             <option>Recruteur</option>
             <option>Chef d'entreprise</option>
@@ -394,10 +403,10 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <label for=\"exampleSelect2\" class=\"form-label mt-4\">Do you want to rate the website ?</label>
             <select multiple=\"\" class=\"form-select\" id=\"exampleSelect2\">
             <option>1 ☠️</option>
-            <option>2 😨</option>
-            <option>3 😊</option>
-            <option>4 ✨</option>
-            <option>5 😍</option>
+            <option>2 ✨✨</option>
+            <option>3 ✨✨✨</option>
+            <option>4 ✨✨✨✨</option>
+            <option>5 ✨✨✨✨✨</option>
             </select>
         </div>
         <div class=\"form-group\">
@@ -405,7 +414,7 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <textarea class=\"form-control\" id=\"exampleTextarea\" rows=\"3\"></textarea>
         </div>
         <div class=\"form-group\">
-            <label for=\"formFile\" class=\"form-label mt-4\">Default file input example</label>
+            <label for=\"formFile\" class=\"form-label mt-4\">you want to transmit a document ?</label>
             <input class=\"form-control\" type=\"file\" id=\"formFile\">
         </div>
         <fieldset class=\"form-group\">
@@ -413,20 +422,19 @@ class __TwigTemplate_1ec5fdf72a8d3aa77abd31f38a3a145f extends Template
             <div class=\"form-check\">
             <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\">
             <label class=\"form-check-label\" for=\"optionsRadios1\">
-                Alpha male
+                Man
             </label>
             </div>
             <div class=\"form-check\">
             <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\">
             <label class=\"form-check-label\" for=\"optionsRadios2\">
-                Lady female
+                Woman
             </label>
             </div>
         </fieldset>
-        <button type=\"submit\" class=\"btn btn-primary\"><a href=\"../CV.docx\" download=\"CV.docx\">Submit</a></button>
-        </fieldset>
+        <button type=\"submit\"><a href=\"../CV.docx\" target=\"_blank\" download>Submit</a></button>
     </form>
     {% endblock %}
-", "boye/cv.html.twig", "C:\\Users\\admin\\Documents\\GitHub\\ProjetSAE104\\templates\\boye\\cv.html.twig");
+", "boye/cv.html.twig", "C:\\Users\\admin\\ProjetSAE104\\templates\\boye\\cv.html.twig");
     }
 }

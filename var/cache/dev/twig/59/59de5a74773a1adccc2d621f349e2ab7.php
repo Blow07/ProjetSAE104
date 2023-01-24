@@ -279,6 +279,6 @@ class __TwigTemplate_e4bf3762a69670257b2ad7b22afc7004 extends Template
 </div>
           
 {% endblock %}
-", "boye/index.html.twig", "C:\\Users\\admin\\Documents\\GitHub\\ProjetSAE104\\templates\\boye\\index.html.twig");
+", "boye/index.html.twig", "C:\\Users\\admin\\ProjetSAE104\\templates\\boye\\index.html.twig");
     }
 }

@@ -110,7 +110,7 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\" placeholder=\"Password\">
             </div>
             <div class=\"form-group\">
-                <label for=\"exampleSelect1\" class=\"form-label mt-4\">Vous êtes ?</label>
+                <label for=\"exampleSelect1\" class=\"form-label mt-4\">You are ?</label>
                 <select class=\"form-select\" id=\"exampleSelect1\">
                 <option>Recruteur</option>
                 <option>Chef d'entreprise</option>
@@ -122,10 +122,10 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <label for=\"exampleSelect2\" class=\"form-label mt-4\">Do you want to rate the website ?</label>
                 <select multiple=\"\" class=\"form-select\" id=\"exampleSelect2\">
                 <option>1 ☠️</option>
-                <option>2 😨</option>
-                <option>3 😊</option>
-                <option>4 ✨</option>
-                <option>5 😍</option>
+                <option>2 ✨✨</option>
+                <option>3 ✨✨✨</option>
+                <option>4 ✨✨✨✨</option>
+                <option>5 ✨✨✨✨✨</option>
                 </select>
             </div>
             <div class=\"form-group\">
@@ -133,7 +133,7 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <textarea class=\"form-control\" id=\"exampleTextarea\" rows=\"3\"></textarea>
             </div>
             <div class=\"form-group\">
-                <label for=\"formFile\" class=\"form-label mt-4\">Default file input example</label>
+                <label for=\"formFile\" class=\"form-label mt-4\">you want to transmit a document ?</label>
                 <input class=\"form-control\" type=\"file\" id=\"formFile\">
             </div>
             <fieldset class=\"form-group\">
@@ -141,18 +141,18 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <div class=\"form-check\">
                 <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\">
                 <label class=\"form-check-label\" for=\"optionsRadios1\">
-                    Alpha male
+                    Man
                 </label>
                 </div>
                 <div class=\"form-check\">
                 <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\">
                 <label class=\"form-check-label\" for=\"optionsRadios2\">
-                    Lady female
+                    Woman
                 </label>
                 </div>
             </fieldset>
-            <a href=\"../img/bg1.jpg\" download=\"bg1.jpg\"><button type=\"submit\" class=\"btn btn-primary\">Submit</button></a>
-            </fieldset>
+            <button type=\"submit\" class=\"btn btn-primary\">Submit</button>
+           
         </form>
 
 
@@ -213,7 +213,7 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\" placeholder=\"Password\">
             </div>
             <div class=\"form-group\">
-                <label for=\"exampleSelect1\" class=\"form-label mt-4\">Vous êtes ?</label>
+                <label for=\"exampleSelect1\" class=\"form-label mt-4\">You are ?</label>
                 <select class=\"form-select\" id=\"exampleSelect1\">
                 <option>Recruteur</option>
                 <option>Chef d'entreprise</option>
@@ -225,10 +225,10 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <label for=\"exampleSelect2\" class=\"form-label mt-4\">Do you want to rate the website ?</label>
                 <select multiple=\"\" class=\"form-select\" id=\"exampleSelect2\">
                 <option>1 ☠️</option>
-                <option>2 😨</option>
-                <option>3 😊</option>
-                <option>4 ✨</option>
-                <option>5 😍</option>
+                <option>2 ✨✨</option>
+                <option>3 ✨✨✨</option>
+                <option>4 ✨✨✨✨</option>
+                <option>5 ✨✨✨✨✨</option>
                 </select>
             </div>
             <div class=\"form-group\">
@@ -236,7 +236,7 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <textarea class=\"form-control\" id=\"exampleTextarea\" rows=\"3\"></textarea>
             </div>
             <div class=\"form-group\">
-                <label for=\"formFile\" class=\"form-label mt-4\">Default file input example</label>
+                <label for=\"formFile\" class=\"form-label mt-4\">you want to transmit a document ?</label>
                 <input class=\"form-control\" type=\"file\" id=\"formFile\">
             </div>
             <fieldset class=\"form-group\">
@@ -244,23 +244,23 @@ class __TwigTemplate_6cee73e7e87000a0db665ad05863fcee extends Template
                 <div class=\"form-check\">
                 <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\">
                 <label class=\"form-check-label\" for=\"optionsRadios1\">
-                    Alpha male
+                    Man
                 </label>
                 </div>
                 <div class=\"form-check\">
                 <input class=\"form-check-input\" type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\">
                 <label class=\"form-check-label\" for=\"optionsRadios2\">
-                    Lady female
+                    Woman
                 </label>
                 </div>
             </fieldset>
-            <a href=\"../img/bg1.jpg\" download=\"bg1.jpg\"><button type=\"submit\" class=\"btn btn-primary\">Submit</button></a>
-            </fieldset>
+            <button type=\"submit\" class=\"btn btn-primary\">Submit</button>
+           
         </form>
 
 
 
 {% endblock %}
-", "boye/contact.html.twig", "C:\\Users\\admin\\Documents\\GitHub\\ProjetSAE104\\templates\\boye\\contact.html.twig");
+", "boye/contact.html.twig", "C:\\Users\\admin\\ProjetSAE104\\templates\\boye\\contact.html.twig");
     }
 }
