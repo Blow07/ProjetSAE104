@@ -122,6 +122,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
         
         </div><br><br>
         <div class=\"container1_uno\">
+
             <div class=\"itempt\">
               <img src=\"../img/img1.jpg\"  width=\"90%\" height=\"50%\" style=\"border-radius: 20px;\">
               <h6 >
@@ -269,6 +270,7 @@ class __TwigTemplate_fa2d29aa2a30f53c807adabc8370a5fe extends Template
         
         </div><br><br>
         <div class=\"container1_uno\">
+
             <div class=\"itempt\">
               <img src=\"../img/img1.jpg\"  width=\"90%\" height=\"50%\" style=\"border-radius: 20px;\">
               <h6 >
