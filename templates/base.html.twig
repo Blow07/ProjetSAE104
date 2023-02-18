@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>{% block title %}Welcome!{% endblock %}</title>
-        <link rel= "stylesheet" href="{{ asset('css/bootstrap2.css') }}" type="text/css">
+        <link rel= "stylesheet" href="{{ asset('css/bootstrap3.css') }}" type="text/css">
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>⚫️</text></svg>">
         {# Run `composer require symfony/webpack-encore-bundle` to start using Symfony UX #}
         {% block stylesheets %}
@@ -17,25 +17,25 @@
     <body>
         <nav class=" cc-navbar navbar navbar-expand-lg navbar-dark ">
             <div class="container-fluid">
-              <a class="navbar-brand text-uppercase mx-4 py-3" href="/boye">My profil</a>
+              <a class="navbar-brand text-uppercase mx-4 py-3" href="/boye" style="color:aqua;">Mr.BOYE</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarColor03">
                 <ul class="navbar-nav ms-auto">
                   <li class="nav-item pe-4">
-                    <a class="nav-link active" href="/portfolio">Portfolio
+                    <a class="nav-link active" href="/portfolio" style="color:aqua;">Portfolio
                       <span class="visually-hidden">(current)</span>
                     </a>
                   </li>
                   <li class="nav-item pe-4">
-                    <a class="nav-link" href="/cv">CV</a>
+                    <a class="nav-link" href="/cv" style="color:aqua;">CV</a>
                   </li>
                   <li class="nav-item pe-4">
-                    <a class="nav-link" href="/contact">Contact</a>
+                    <a class="nav-link" href="/contact" style="color:aqua;">Contact</a>
                   </li>
                   <li class="nav-item pe-4">
-                    <a class="btn btn-order rounded-0" href="#teleport">Know more</a>
+                    <a class="btn btn-order rounded-0" href="#teleport" style="color:aqua;">Know more</a>
                   </li>
                 </ul>
               </div>
